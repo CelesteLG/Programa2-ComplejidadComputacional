@@ -1,5 +1,6 @@
 # Programa2-ComplejidadComputacional
 
+# NOTA: ESTA INFORMACIÓN TAMBIÉN SE ENCUENTRA EN `316162027_Lorenzo/readme.pdf`
 ## Descripción
 
 Este proyecto contiene la implementación del Algoritmo de Aproximación para el Problema Subset Sum obtenido del libro "Introduction to Algorithms" de Thomas H. Cormen.
